@@ -39,7 +39,6 @@ public class Main {
     }
 
     public static int calcDecToBinary(String input){
-
         int endValue=0;
         for(int i=0; i<input.length();i++){
             char binaryValue= input.charAt(i);
